@@ -1,0 +1,4 @@
+{
+    "username":"cy.get('#username')",
+    "password":"cy.get('#password')"
+}

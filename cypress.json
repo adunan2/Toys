@@ -1,1 +1,5 @@
-{}
+{
+    "baseUrl":"https://mobility-stgcf.motus.com/home", 
+    "viewportWidth": 1200,
+    "viewportHeight": 660
+}
